@@ -1,37 +1,13 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/sharmapulkit/psharma.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am a 2nd year Masters student in CS at UMass Amherst. I completed my undergraduate in Electrical Engineering from IIT Delhi in May, 2017
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Research
+I have worked on some different fields of Machine Learning. Currently I am exploring problems in Explainable AI. I am working on Analysis of Recourse Methods for Machine Learning methods.
 
-### Markdown
+Before this I worked on Counter Factual analysis of Tree Explanation methods: 
+[Link](https://arxiv.org/abs/2010.06734) Paper
+Published at CMAI 2020
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sharmapulkit/psharma.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Life Interests
+I spend rest of my time learning Led Zep and Jimi Hendrix songs on guitar.
